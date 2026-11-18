@@ -1,0 +1,15 @@
+[submodule "binja-agent-mcp"]
+	path = binja-agent-mcp
+	url = https://github.com/y637F9QQ2x/binja-agent-mcp.git
+[submodule "windbg-hyperv-mcp"]
+	path = windbg-hyperv-mcp
+	url = https://github.com/y637F9QQ2x/windbg-hyperv-mcp.git
+[submodule "hyperv-lpe-lab"]
+	path = hyperv-lpe-lab
+	url = https://github.com/y637F9QQ2x/hyperv-lpe-lab.git
+[submodule "win-agent-probes"]
+	path = win-agent-probes
+	url = https://github.com/y637F9QQ2x/win-agent-probes.git
+[submodule "winremote-session-ext"]
+	path = winremote-session-ext
+	url = https://github.com/y637F9QQ2x/winremote-session-ext.git
